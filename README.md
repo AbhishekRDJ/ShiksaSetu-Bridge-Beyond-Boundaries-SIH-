@@ -1,4 +1,5 @@
-# Virtual Classroom Platform - Bridging the Rural-Urban Learning Gap
+# Virtual Classroom Platform - Bridging the Rural-Urban Learning Gap (SIH - 2025)
+
 
 ## 💡 Introduction
 
@@ -6,27 +7,33 @@
 
 **Solution**: Our solution is a software-only, three-sided virtual classroom platform designed to be lightweight and accessible on entry-level smartphones, addressing the core issue of poor connectivity and expensive hardware. By prioritizing clear audio and highly compressed visual content, our platform functions smoothly even on 2G/3G networks while providing live sessions, recorded lectures, interactive elements, and professional development opportunities for educators and students alike.
 
-**A CodeWave 2025 Project** - *AI for Real India* by **Team [Your Team Name] From [Your Institution].**
+## 🎥 Watch Our Demo Video
 
-## Intro To Virtual Classroom Platform Video
+<div align="center">
 
-[![Intro To Virtual Classroom](https://i.postimg.cc/tTFwQ3J6/PRAVASA.png)
-](https://www.youtube.com/watch?v=cWir6r6-CUM)
+### ⭐ **WATCH THE FULL DEMO VIDEO** ⭐
 
-Short but detailed introduction to our Virtual Classroom Platform. Click on the image above to watch the video.
+<a href="https://www.youtube.com/watch?v=cWir6r6-CUM">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1200px-YouTube_full-color_icon_%282017%29.svg.png" width="50" height="50">
+</a>
+
+**[🎬 CLICK HERE or CLICK Image to WATCH ON YOUTUBE 🎬](https://www.youtube.com/watch?v=cWir6r6-CUM)**
+
+### Intro To Virtual Classroom Platform Video
+
+[![Intro To Virtual Classroom](https://i.postimg.cc/tTFwQ3J6/PRAVASA.png)](https://www.youtube.com/watch?v=cWir6r6-CUM)
+
+</div>
 
 ### Addressing Rural Education Infrastructure Challenges 🎯
 
 <p align="center">
   <img src="https://i.pinimg.com/474x/68/39/a7/6839a7ef508a0e94a1a51c760f11f894.jpg" width="200"/>
-  <!-- <img src="https://i.pinimg.com/474x/a7/d5/67/a7d567f116563e93fe05fa4dd67fc2d80.jpg" width="200"/>
-  <img src="https://i.pinimg.cc/474x/0e/ac/da/0eacdaaedeb8bdc39b7c0b2d23fc2d80.jpg" width="200"/> -->
 </p>
 
 Our Virtual Classroom Platform is a lightweight, low-bandwidth solution designed to revolutionize education delivery in rural India by providing access to specialized lecturers in fields like AI and VLSI. Through live lectures, recorded content, interactive elements, and professional development tools, we bridge the urban-rural learning gap and ensure quality education reaches even the most underserved communities. We're advancing UN Sustainable Development Goals 4 (Quality Education), 9 (Industry, Innovation & Infrastructure), and 10 (Reduced Inequalities) by making specialized education accessible on entry-level smartphones.
 
 Join us in the mission to democratize education and transform learning outcomes across rural India!
-
 
 ## 📊 Public Opinion & Rural Impact Study
 
@@ -49,9 +56,6 @@ Join us in the mission to democratize education and transform learning outcomes 
     <td style="text-align: center;">
       <img src="https://i.postimg.cc/VL2w1PHZ/image.png" alt="Image 2" style="width: 100%;">  
     </td>
-    <!-- <td style="text-align: center;">
-      <img src="https://i.postimg.cc/cLNDQd9n/image.png" alt="Image 3" style="width: 100%;">
-    </td> -->
   </tr>
   <tr>
    <td style="text-align: center;">
@@ -73,10 +77,7 @@ To Setup this project run
 
 ```bash
 git clone git@github.com:AbhishekRDJ/ShiksaSetu-Bridge-Beyond-Boundaries-SIH-.git
-
 ```
-
-
 
 ## 🌟 Key Features for Real India:
 
@@ -157,7 +158,35 @@ git clone git@github.com:AbhishekRDJ/ShiksaSetu-Bridge-Beyond-Boundaries-SIH-.gi
 - Adjustable font sizes and high contrast mode
 - Support for students with connectivity challenges
 
+## Tech Stack
+**Technologies involved/used for Real India:**
 
+### Backend & Infrastructure:
+- **Node.js**: Backend server for handling real-time connections and data management
+- **Firebase**: Real-time database and cloud storage for lectures and content
+- **AWS or Google Cloud**: Scalable infrastructure for video compression and storage
+
+### Frontend & Mobile:
+- **React/Next.js**: Responsive web interface optimized for all devices
+- **React Native or Flutter**: Cross-platform mobile app for iOS and Android
+- **Progressive Web App**: Web-based application with offline capabilities
+
+### AI & Machine Learning:
+- **LLM Integration**: ChatGPT or similar for AI-powered Q&A
+- **Video Compression**: Advanced compression algorithms for minimal file sizes
+- **Speech Recognition**: Audio processing for live sessions and transcriptions
+- **Analytics Engine**: Machine learning for engagement prediction and recommendations
+
+### Media & Streaming:
+- **WebRTC**: Real-time audio and video streaming for live sessions
+- **FFmpeg**: Media processing and compression
+- **HLS Streaming**: Adaptive streaming protocol for different bandwidth conditions
+- **CDN Integration**: Content delivery network for efficient content distribution
+
+### Database & Storage:
+- **MongoDB or PostgreSQL**: Database management for user and content data
+- **Cloud Storage**: Scalable storage for recordings and learning materials
+- **Redis**: Caching for improved performance
 
 ## 🎯 Impact on Rural India
 
@@ -211,11 +240,13 @@ We are a passionate team dedicated to solving Real India's rural education chall
 | <img src="https://i.postimg.cc/8z67gcHq/Whats-App-Image-2025-03-29-at-12-22-55-185683b7.jpg"> | <img src="https://i.postimg.cc/0NrP1BPr/Whats-App-Image-2025-04-05-at-21-35-43-654297fd.jpg"> | <img src="https://i.postimg.cc/Vs2Rqrdh/Whats-App-Image-2025-04-05-at-23-31-46-d341cc20.jpg"> | <img src="https://i.postimg.cc/vmRfHD9H/Whats-App-Image-2025-08-30-at-22-39-33-34f02a22.jpg"> |
 | Backend Developer & Infrastructure Specialist | Full Stack Developer & UI/UX Specialist| AI/LLM Integration Expert | DevOps & Performance Optimization Specialist                     
 
-<p align="center">
-  <img src="https://i.postimg.cc/wxtNJhVT/Whats-App-Image-2025-08-30-at-22-48-33-5a67b6e0.jpg" alt="virtual-classroom"/>
-</p>
 
 
+## SIH 2025 - AI for Real India 🇮🇳
+
+**"Bridging the Urban-Rural Learning Gap, One Lecture at a Time"**
+
+Our Virtual Classroom Platform is more than just an educational tool - it's a solution to democratize access to specialized education across rural India. By combining lightweight technology with deep understanding of rural infrastructure challenges, we're building a platform that truly serves Bharat.
 
 ### Our Mission:
 - **Connect**: Link rural students with specialized lecturers in AI, VLSI, and advanced fields
@@ -226,7 +257,3 @@ We are a passionate team dedicated to solving Real India's rural education chall
 ## Happy Innovating for Real India 💯
 
 Made with love and dedication for Bharat from Virtual Classroom Squad ❤️
-
----
-
-*"Technology should adapt to reality, not the other way around. Our Virtual Classroom Platform is our contribution to ensuring that rural students have access to the same quality education as their urban counterparts, regardless of infrastructure limitations."*
