@@ -11,7 +11,7 @@
 ## Intro To Virtual Classroom Platform Video
 
 [![Intro To Virtual Classroom](https://i.postimg.cc/tTFwQ3J6/PRAVASA.png)
-](https://www.youtube.com/watch?v=-EBxBWZGXAc)
+](https://www.youtube.com/watch?v=cWir6r6-CUM)
 
 Short but detailed introduction to our Virtual Classroom Platform. Click on the image above to watch the video.
 
