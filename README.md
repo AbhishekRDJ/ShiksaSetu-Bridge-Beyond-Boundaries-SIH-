@@ -232,16 +232,17 @@ git clone git@github.com:AbhishekRDJ/ShiksaSetu-Bridge-Beyond-Boundaries-SIH-.gi
 # Hi, We are Virtual Classroom Squad
 
 ## 🤝 Contributors
-
 We are a passionate team dedicated to solving Real India's rural education challenges through innovative, low-bandwidth technology solutions.
 
-| [Contributor 1 ](https://www.linkedin.com/)| [Contributor 2 ](https://www.linkedin.com/)| [Contributor 3](https://www.linkedin.com/)| [Contributor 4](https://www.linkedin.com/)|
-| ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <img src="https://i.postimg.cc/8z67gcHq/Whats-App-Image-2025-03-29-at-12-22-55-185683b7.jpg"> | <img src="https://i.postimg.cc/0NrP1BPr/Whats-App-Image-2025-04-05-at-21-35-43-654297fd.jpg"> | <img src="https://i.postimg.cc/Vs2Rqrdh/Whats-App-Image-2025-04-05-at-23-31-46-d341cc20.jpg"> | <img src="https://i.postimg.cc/vmRfHD9H/Whats-App-Image-2025-08-30-at-22-39-33-34f02a22.jpg"> |
-| Backend Developer & Infrastructure Specialist | Full Stack Developer & UI/UX Specialist| AI/LLM Integration Expert | DevOps & Performance Optimization Specialist                     
+| [Abhishek](https://www.linkedin.com/in/abhishek-sangule-07b202319/) | [Vinay](https://www.linkedin.com/in/vinay-vyas-96a85b28b/) | [Shreya](https://www.linkedin.com/in/shreya-langote-7729702b5) |
+| --- | --- | --- |
+| <img src="https://iili.io/KkZxCOl.md.jpg" width="700"> | <img src="https://iili.io/KkZ1GUl.md.jpg" width="700"> | <img src="https://iili.io/KkQpt8g.md.png" width="700"> |
+| Team Leader & Backend Developer | Full Stack Developer | GenAI Expert & Kotlin Developer |
 
-
-
+| [Ravi](https://www.linkedin.com/in/ravi-shinde-058004280/) | [Sakshi](https://www.linkedin.com/in/sakshi-totala-435496256/) | [Prathamesh](https://www.linkedin.com/in/prathmeshkathar-3b5125229/) |
+| --- | --- | --- |
+| <img src="https://iili.io/KkZW5n1.md.jpg" width="700"> | <img src="https://iili.io/KkZhHI2.md.jpg" width="700"> | <img src="https://iili.io/KkZw7bR.md.jpg" width="700"> |
+| Python Expert & Flutter Developer | Cloud Expert | UI/UX Specialist |
 ## SIH 2025 - AI for Real India 🇮🇳
 
 **"Bridging the Urban-Rural Learning Gap, One Lecture at a Time"**
